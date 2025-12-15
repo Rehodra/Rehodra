@@ -6,22 +6,21 @@ I build full-stack projects using Python, Node.js, Flask, and React, focusing on
 
 Open to collaborating on web apps, APIs, and ML-driven projects. I enjoy system design, optimizing backend/frontend solutions, and applying machine learning to real-world use cases.
 # 🌐 Social 
-
 <p>
-  <a href="https://www.linkedin.com/in/mounasuvra-banerjee/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="36" />
+  <a href="https://www.linkedin.com/in/mounasuvra-banerjee/" style="text-decoration:none;">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="36" style="border-radius:50%; padding:6px; background:#ffffff;" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Rehodra">
-    <img src="https://skillicons.dev/icons?i=github" width="36" />
+  <a href="https://github.com/Rehodra" style="text-decoration:none;">
+    <img src="https://skillicons.dev/icons?i=github" width="36" style="border-radius:50%; padding:6px; background:#ffffff;" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/MounasuvraB">
-    <img src="https://skillicons.dev/icons?i=twitter" width="36" />
+  <a href="https://x.com/MounasuvraB" style="text-decoration:none;">
+    <img width="36" alt="image" src="https://github.com/user-attachments/assets/abe5f4d4-eb6d-43fb-88ce-22539d3cbb71" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:mounasuvra@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="36" />
+  <a href="mailto:mounasuvra@gmail.com" style="text-decoration:none;">
+    <img src="https://skillicons.dev/icons?i=gmail" width="36" style="border-radius:50%; padding:6px; background:#ffffff;" />
   </a>
 </p>
 
