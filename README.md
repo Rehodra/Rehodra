@@ -2,26 +2,26 @@
 2nd Year B.Tech (CSE) | Backend & Full-Stack Developer | Learning Machine Learning
 
 # 💫 About Me:
-I’m focused on backend development with Python, Node.js, Flask, and React, building clean, maintainable, and scalable projects. I’m also exploring machine learning, advanced backend techniques, RESTful APIs, and modern full-stack workflows.
+I build full-stack projects using Python, Node.js, Flask, and React, focusing on clean, scalable, and maintainable code. I’m also exploring machine learning, RESTful APIs, and modern web development workflows.
 
-Open to collaborating on web apps, backend services, and ML projects. I’m keen on system design, backend optimization, and applying ML to practical solutions. Ask me about backend development, Flask APIs, React projects, or my hands-on learning approach.
+Open to collaborating on web apps, APIs, and ML-driven projects. I enjoy system design, optimizing backend/frontend solutions, and applying machine learning to real-world use cases.
 # 🌐 Social 
 
 <p>
   <a href="https://www.linkedin.com/in/mounasuvra-banerjee/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="36" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Rehodra">
-    <img src="https://skillicons.dev/icons?i=github" width="40" />
+    <img src="https://skillicons.dev/icons?i=github" width="36" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://x.com/MounasuvraB">
-    <img src="https://skillicons.dev/icons?i=twitter" width="40" />
+    <img src="https://skillicons.dev/icons?i=twitter" width="36" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:mounasuvra@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="36" />
   </a>
 </p>
 
