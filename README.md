@@ -1,10 +1,10 @@
 # 👨‍💻 Mounasuvra Banerjee
-2nd Year B.Tech (CSE) | Backend & Full-Stack Developer | Learning Machine Learning
+#### 2nd Year B.Tech (CSE) | Backend & Full-Stack Developer | Learning Machine Learning
 
 # 💫 About Me:
-I build full-stack projects using Python, Node.js, Flask, and React, focusing on clean, scalable, and maintainable code. I’m also exploring machine learning, RESTful APIs, and modern web development workflows.
+#### I build full-stack projects using Python, Node.js, Flask, and React, focusing on clean, scalable, and maintainable code. I’m also exploring machine learning, RESTful APIs, and modern web development workflows.
 
-Open to collaborating on web apps, APIs, and ML-driven projects. I enjoy system design, optimizing backend/frontend solutions, and applying machine learning to real-world use cases.
+#### Open to collaborating on web apps, APIs, and ML-driven projects. I enjoy system design, optimizing backend/frontend solutions, and applying machine learning to real-world use cases.
 # 🌐 Social 
 <p>
   <a href="https://www.linkedin.com/in/mounasuvra-banerjee/" style="text-decoration:none;">
