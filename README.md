@@ -2,7 +2,7 @@
 <p align="center">
   <img
     src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"
-    width="420"
+    width="320"
     alt="Coding animation"
   />
 </p>
@@ -46,63 +46,57 @@ Open to collaborating on **web apps, APIs, and ML-driven projects**. I enjoy sys
 
 ---
 
-## 🧩 Tech Stack (Icons)
-
-<!-- tip: keep icon height consistent for clean alignment -->
+<table border="0" cellpadding="0" cellspacing="0" style="border: none;">
+<tr>
+<td style="border: none;" width="50%" valign="top">
 
 ### 👨‍💻 Languages
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img height="42" src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts&theme=dark" alt="Languages" />
-  </a>
-</p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts&perline=3" alt="Languages" />
+</a>
 
 ### 🧠 Backend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img height="42" src="https://skillicons.dev/icons?i=nodejs,express,flask,django,fastapi&theme=dark" alt="Backend" />
-  </a>
-</p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,django,fastapi&perline=3" alt="Backend" />
+</a>
 
 ### 🎨 Frontend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img height="42" src="https://skillicons.dev/icons?i=react,nextjs,vite,html,css,tailwind&theme=dark" alt="Frontend" />
-  </a>
-</p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,html,css,tailwind&perline=3" alt="Frontend" />
+</a>
 
 ### 🗄️ Databases
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img height="42" src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,&theme=dark" alt="Databases" />
-  </a>
-</p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis&perline=3" alt="Databases" />
+</a>
+
+</td>
+<td style="border: none;" width="50%" valign="top">
 
 ### 🤿 DevOps / Cloud
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img height="42" src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws&theme=dark" alt="DevOps and Cloud" />
-  </a>
-</p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws&perline=3" alt="DevOps and Cloud" />
+</a>
 
 ### 🔨 Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img height="42" src="https://skillicons.dev/icons?i=vscode,postman,git&theme=dark" alt="Tools" />
-  </a>
-</p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=vscode,postman,git&perline=3" alt="Tools" />
+</a>
 
 ### 🤖 ML / Data (Learning & Building)
-<p align="left gap-2">
+<p>
   <a href="https://skillicons.dev">
-    <img height="42" src="https://skillicons.dev/icons?i=tensorflow&theme=dark" alt="ML / Data" />
-    <img height="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/numpy.png" alt="NumPy" title="NumPy" />&nbsp;
-    <img height="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/pandas.png" alt="Pandas" title="Pandas" />&nbsp;
+    <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" />
   </a>
+  <img height="48" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/numpy.png" alt="NumPy" title="NumPy" />
+  <img height="48" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/pandas.png" alt="Pandas" title="Pandas" />
 </p>
-> Also worked with (mentioned in projects): Appwrite, Render, Vercel.
 
----
+</td>
+</tr>
+</table>
+
+> Also worked with (mentioned in projects): Appwrite, Render, Vercel.
 
 ## 📊 GitHub Stats
 ![](https://nirzak-streak-stats.vercel.app/?user=Rehodra&theme=github_dark_dimmed&hide_border=false)
@@ -121,15 +115,10 @@ Open to collaborating on **web apps, APIs, and ML-driven projects**. I enjoy sys
   <br />
 
   <p align="center">
-   <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Rehodra&theme=github-dark&hide_border=true&radius=10&area=true"
-      alt="GitHub Activity Graph"
-      width="450"
-    />
-    <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rehodra&theme=github_dark"
-      alt="GitHub Profile Summary"
-      width="450"
-    />
+    <img width="676" height="352" alt="image" src="https://github.com/user-attachments/assets/a0e6ac63-0f61-4b0c-92f9-96541fae556e" />
+
+  </p>
+  
+
   </p>
 </details>
