@@ -1,35 +1,113 @@
-# 👨‍💻 Mounasuvra Banerjee
-#### 2nd Year B.Tech (CSE) | Backend & Full-Stack Developer | Learning Machine Learning
+<!-- HERO -->
+<p align="center">
+  <img
+    src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"
+    width="420"
+    alt="Coding animation"
+  />
+</p>
 
-# 💫 About Me:
-#### I build full-stack projects using Python, Node.js, Flask, and React, focusing on clean, scalable, and maintainable code. Exploring machine learning, RESTful APIs, and modern development workflows.
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=5&color=F7F7F7&multiline=true&width=435&height=80&lines=Mounasuvra+Banerjee;Full+Stack+developer" alt="Typing SVG" /></a>
+</p>
 
-#### Open to collaborating on web apps, APIs, and ML-driven projects. I enjoy system design, optimizing backend/frontend solutions, and applying machine learning to real-world use cases.
-# 🌐 Social 
+<h3 align="left">
+  <b>2nd Year B.Tech (CSE)</b> • Backend & Full‑Stack Developer • Learning Machine Learning
+</h3>
+
+---
+
+## 💫 About Me
+I build full-stack projects using **Python, Node.js, Flask, and React**, focusing on clean, scalable, and maintainable code.  
+Exploring **machine learning, RESTful APIs**, and modern development workflows.
+
+Open to collaborating on **web apps, APIs, and ML-driven projects**. I enjoy system design, optimizing backend/frontend solutions, and applying machine learning to real-world use cases.
+
+---
+
+## 🌐 Social
 <p>
-  <a href="https://www.linkedin.com/in/mounasuvra-banerjee/" style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="36" style="border-radius:50%; padding:6px; background:#ffffff;" />
+  <a href="https://www.linkedin.com/in/mounasuvra-banerjee/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="38" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Rehodra" style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=github" width="36" style="border-radius:50%; padding:6px; background:#ffffff;" />
+  <a href="https://github.com/Rehodra">
+    <img src="https://skillicons.dev/icons?i=github" width="38" alt="GitHub" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/MounasuvraB" style="text-decoration:none;">
-    <img width="36" alt="image" src="https://github.com/user-attachments/assets/abe5f4d4-eb6d-43fb-88ce-22539d3cbb71" />
+  <a href="https://x.com/MounasuvraB">
+    <img width="38" alt="X" src="https://github.com/user-attachments/assets/abe5f4d4-eb6d-43fb-88ce-22539d3cbb71" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:mounasuvra@gmail.com" style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=gmail" width="36" style="border-radius:50%; padding:6px; background:#ffffff;" />
+  <a href="mailto:mounasuvra@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="38" alt="Gmail" />
   </a>
 </p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=plastic&logo=appwrite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=plastic&logo=radix-ui&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white)
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rehodra&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=true)
+---
+
+## 🧩 Tech Stack (Icons)
+
+<!-- tip: keep icon height consistent for clean alignment -->
+
+### 👨‍💻 Languages
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img height="42" src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts&theme=dark" alt="Languages" />
+  </a>
+</p>
+
+### 🧠 Backend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img height="42" src="https://skillicons.dev/icons?i=nodejs,express,flask,django,fastapi&theme=dark" alt="Backend" />
+  </a>
+</p>
+
+### 🎨 Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img height="42" src="https://skillicons.dev/icons?i=react,nextjs,vite,html,css,tailwind&theme=dark" alt="Frontend" />
+  </a>
+</p>
+
+### 🗄️ Databases
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img height="42" src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,&theme=dark" alt="Databases" />
+  </a>
+</p>
+
+### 🤿 DevOps / Cloud
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img height="42" src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws&theme=dark" alt="DevOps and Cloud" />
+  </a>
+</p>
+
+### 🔨 Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img height="42" src="https://skillicons.dev/icons?i=vscode,postman,git&theme=dark" alt="Tools" />
+  </a>
+</p>
+
+### 🤖 ML / Data (Learning & Building)
+<p align="left gap-2">
+  <a href="https://skillicons.dev">
+    <img height="42" src="https://skillicons.dev/icons?i=tensorflow&theme=dark" alt="ML / Data" />
+    <img height="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/numpy.png" alt="NumPy" title="NumPy" />&nbsp;
+    <img height="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/pandas.png" alt="Pandas" title="Pandas" />&nbsp;
+  </a>
+</p>
+> Also worked with (mentioned in projects): Appwrite, Render, Vercel.
+
+---
+
+## 📊 GitHub Stats
 ![](https://nirzak-streak-stats.vercel.app/?user=Rehodra&theme=github_dark_dimmed&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rehodra&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rehodra&theme=github_dark_dimmed&hide_border=false&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Rehodra&theme=dark&no-frame=false&no-bg=false&margin-w=4)
@@ -37,7 +115,21 @@
 ## ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
----
-[![](https://visitcount.itsvg.in/api?id=Rehodra&icon=0&color=1)](https://visitcount.itsvg.in)
+## 📌 More GitHub Activity (SVG)
+<details open>
+  <summary><strong>Open</strong></summary>
+  <br />
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  <p align="center">
+   <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Rehodra&theme=github-dark&hide_border=true&radius=10&area=true"
+      alt="GitHub Activity Graph"
+      width="450"
+    />
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rehodra&theme=github_dark"
+      alt="GitHub Profile Summary"
+      width="450"
+    />
+  </p>
+</details>
