@@ -109,7 +109,7 @@ Open to collaborating on **web apps, APIs, and ML-driven projects**. I enjoy sys
 ## ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-## 📌 More GitHub Activity (SVG)
+## 📌GitHub Activity
 <details open>
   <summary><strong>Open</strong></summary>
   <br />
